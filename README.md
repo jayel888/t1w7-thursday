@@ -15,3 +15,10 @@
 - Cannot access the elements using index operator []. Need to check if the elements exist in the set.
 - They are defined by enclosing elements in curly brackets {}.
 
+- Union: Combine sets together. Duplicates are deleted.
+- Intersection: Common values between multiple sets.
+- Difference: Set 1 minus the common values from Set 2. eg 1, 2, 3 & 3, 4, 5 has difference 1,2
+
+## Dictionaries
+- Collection of key-value pairs, mutable.
+- Each key value is unique, and the keys are used to store and retrieve values.
