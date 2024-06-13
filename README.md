@@ -21,4 +21,5 @@
 
 ## Dictionaries
 - Collection of key-value pairs, mutable.
-- Each key value is unique, and the keys are used to store and retrieve values.
+- Each key value is unique, and the keys are used to store and retrieve values. "key:value"
+- 
